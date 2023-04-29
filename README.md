@@ -1,5 +1,7 @@
 # Data Visualisation INM402 
-This repository contains the data used for the Data visualisation coursework. The raw data was obtained from the office of national statistics census data. The following data sources were used:
+This repository contains the data used for the Data visualisation coursework. The raw data was obtained from the office of national statistics census data, which can be found here: https://www.ons.gov.uk/search?filter=datasets&topics=4262,4994,8463,7267&page=2.
+
+The following data sources were used:
 - Age-standardised general health cetegory data (Regional and Local Authority)
 - Highest level of education achieved (Regional and Local Authority)
 - Occupation (Regional and Local Authority)
