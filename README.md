@@ -3,7 +3,7 @@ This repository contains the data used for the Data visualisation coursework. Th
 
 The following data sources were used:
 - Age-standardised general health cetegory data (Regional and Local Authority)
-- Highest level of education achieved (Regional and Local Authority)
+- Highest level of qualification achieved (Regional and Local Authority)
 - Occupation (Regional and Local Authority)
 - Hours worked (Regional and Local Authority)
 
